@@ -13,7 +13,7 @@ The goal of this site was to create something like what was being asked in the S
 
 https://amay-zingg.github.io/carrey-ed_away/
 
-# Things I still need to work on; 
+#### Things I still need to work on; 
 
 ◮ I want to make a read more/read less button for the movie overviews
 
@@ -35,7 +35,7 @@ This is the portfolio piece I am most proud of! It's an art tour of Kensington M
 
 https://amay-zingg.github.io/anastasia-may-project-5/
 
-# Things I still need to work on;
+#### Things I still need to work on;
 
 ◮ Want the little info icon overlay screen to be shown on landing 
 
