@@ -6,13 +6,14 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
-### Carrey-ed Away
+## Carrey-ed Away
 ◮ HTML, CSS, JavaScript, & SASS (JQuery in the works)
+
 The goal of this site was to create something like what was being asked in the Shopify Internship challenge for Web Development. I wanted to put my own twist on it to show that I'm a creative and fun person! (I ADORE Jim Carrey 😁)
 
 https://amay-zingg.github.io/carrey-ed_away/
 
-### Things I still need to work on; 
+# Things I still need to work on; 
 
 ◮ I want to make a read more/read less button for the movie overviews
 
@@ -22,17 +23,19 @@ https://amay-zingg.github.io/carrey-ed_away/
 
 ## Hana Shafi Portfolio
 ◮ HTML, CSS, JavaScript, & SASS
+
 This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements.
 
 https://amay-zingg.github.io/hana-site/
 
 ## Kensington Art Tour
 ◮ HTML, CSS, JavaScript, SASS, React & Firebase
+
 This is the portfolio piece I am most proud of! It's an art tour of Kensington Market in Toronto. 
 
 https://amay-zingg.github.io/anastasia-may-project-5/
 
-### Things I still need to work on;
+# Things I still need to work on;
 
 ◮ Want the little info icon overlay screen to be shown on landing 
 
