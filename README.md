@@ -1,8 +1,10 @@
-### Heya 👋
+# Heya 👋
 
 ## My name is Anastasia & I'm invested in learning how to code!
 
 I really love building projects and putting all the pieces together to make it complete! (We all know the work is never done though 🤪) (But that's okie, no small tweak is ever insignificant) 
+
+📫 How to reach me: amayzinggdev@gmail.com
 
 ## The repos I'm currently working on are: 
 
@@ -41,14 +43,12 @@ https://amay-zingg.github.io/anastasia-may-project-5/
 
 ◭ Slideshow needs some attention. Photos optimized, add in information from main app for each photo as well (the location, artist and Instagram handle) 
 
-📫 How to reach me: amayzinggdev@gmail.com
-
 ## Anastasia Fun Facts!
 
 🐅 I LOVE tigers and tiger print
 
-🎃 I LOVE Halloween (It's the creative spooky displays and costumes 😍)
+🎃 I LOVE Halloween (It's the creative, spooky, and usually skeleton related displays & costumes 😍)
 
-🍁 I LOVE Autumn, October is my favourite month of the year! (If it's not obvious yet my favourite colour is orange, and that's what this time of year is all about!)
+🍁 I LOVE Autumn, October is my favourite month of the year! (If it's not obvious yet, my favourite colour is orange, and that's what this time of year is all about!)
 
 🤢 I don't like the taste of vinegar AT ALL and think balsamic is especially disgusting
