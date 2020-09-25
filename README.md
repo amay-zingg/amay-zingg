@@ -8,6 +8,14 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
+## Anastasia May Artist Site
+◮ HTML, CSS, JavaScript, SASS, React
+
+This is me trying to make a better version of my current artist website (https://anastasiamay.ca)
+
+https://amay-zingg.github.io/anastasia-art
+
+
 ## Carrey-ed Away
 ◮ HTML, CSS, JavaScript, & SASS (JQuery in the works)
 
