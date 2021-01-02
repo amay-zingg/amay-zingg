@@ -8,6 +8,13 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
+## Hana Shafi Portfolio
+◮ HTML, CSS, JavaScript, & SASS
+
+This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements. I'm actually making an exact replica in Shopify at the same time to compare and understand the beast that is Shopify theme building!
+
+https://amay-zingg.github.io/hana-site/
+
 ## Anastasia May Artist Site
 ◮ HTML, CSS, JavaScript, SASS, React
 
@@ -30,13 +37,6 @@ https://amay-zingg.github.io/carrey-ed_away/
 ◭ Make the data from the firebase database update in a horizontal bar chart from chart.js as the rankings
 
 ◮ I'm trying to make a JQuery version - so I can understand how to make it work in Vanilla JS and in JQuery
-
-## Hana Shafi Portfolio
-◮ HTML, CSS, JavaScript, & SASS
-
-This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements.
-
-https://amay-zingg.github.io/hana-site/
 
 ## Kensington Art Tour
 ◮ HTML, CSS, JavaScript, SASS, React & Firebase
