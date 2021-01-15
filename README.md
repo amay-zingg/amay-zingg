@@ -9,7 +9,7 @@ I really love building projects and putting all the pieces together to make it c
 ## The repos I'm currently working on are: 
 
 ## Hana Shafi Portfolio
-◮ HTML, CSS, JavaScript, & SASS
+✶ HTML, CSS, JavaScript, & SASS
 
 This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements. I'm actually making an exact replica in Shopify at the same time to compare and understand the beast that is Shopify theme building!
 
@@ -18,7 +18,7 @@ Site - https://amay-zingg.github.io/hana-site/
 Repo - https://github.com/amay-zingg/hana-site
 
 ## Anastasia May Artist Site
-◮ HTML, CSS, JavaScript, SASS, React
+✶ HTML, CSS, JavaScript, SASS, React
 
 This is me trying to make a better version of my current artist website (https://anastasiamay.ca)
 
@@ -27,7 +27,7 @@ Site - https://amay-zingg.github.io/
 Repo - https://github.com/amay-zingg/anastasia-art
 
 ## Carrey-ed Away
-◮ HTML, CSS, JavaScript, & SASS (JQuery in the works)
+✶ HTML, CSS, JavaScript, & SASS (JQuery in the works)
 
 The goal of this site was to create something like what was being asked in the Shopify Internship challenge for Web Development. I wanted to put my own twist on it to show that I'm a creative and fun person! (I ADORE Jim Carrey 😁)
 
