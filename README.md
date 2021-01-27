@@ -9,7 +9,7 @@ I really love building projects and putting all the pieces together to make it c
 ## The repos I'm currently working on are: 
 
 ## Hana Shafi Portfolio
-✶ HTML, CSS, JavaScript, & SASS
+✶ HTML, CSS, JQuery, & SASS
 
 This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements. I'm actually making an exact replica in Shopify at the same time to compare and understand the beast that is Shopify theme building!
 
