@@ -22,7 +22,7 @@ Repo - https://github.com/amay-zingg/hana-site
 
 This is me trying to make a better version of my current artist website (https://anastasiamay.ca)
 
-Site - https://amay-zingg.github.io/
+Site - https://amay-zingg.github.io/anastasia-art
 
 Repo - https://github.com/amay-zingg/anastasia-art
 
