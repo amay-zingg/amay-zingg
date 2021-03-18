@@ -14,6 +14,7 @@ I really love building projects and putting all the pieces together to make it c
 I needed to learn this for a tech test and this is the result!
 
 Site - https://amay-zingg.github.io/GSAP-banner-animation/
+
 Repo - https://github.com/amay-zingg/GSAP-banner-animation/
 
 oh and my practice run lol
