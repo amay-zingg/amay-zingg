@@ -8,6 +8,18 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
+## Tech Test/ Learning GSAP
+✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
+
+I needed to learn this for a tech test and this is the result!
+
+Site - https://amay-zingg.github.io/GSAP-banner-animation/
+Repo - https://github.com/amay-zingg/GSAP-banner-animation/
+
+oh and my practice run lol
+
+Site - https://amay-zingg.github.io/GSAP-first-try/
+
 ## Hana Shafi Portfolio
 ✶ HTML, CSS, JQuery, & SASS
 
