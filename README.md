@@ -17,7 +17,11 @@ Site - https://amay-zingg.github.io/GSAP-banner-animation/
 
 Repo - https://github.com/amay-zingg/GSAP-banner-animation/
 
-oh and my practice run lol
+oh and my practice runs lol
+
+Site - https://amay-zingg.github.io/GSAP-example-animation/
+
+Repo - https://github.com/amay-zingg/GSAP-example-animation/
 
 Site - https://amay-zingg.github.io/GSAP-first-try/
 
