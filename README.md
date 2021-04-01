@@ -25,6 +25,15 @@ Repo - https://github.com/amay-zingg/GSAP-example-animation/
 
 Site - https://amay-zingg.github.io/GSAP-first-try/
 
+## Anastasia May Artist Site
+✶ HTML, CSS, JavaScript, SASS, React
+
+This is me trying to make a better version of my current artist website (https://anastasiamay.ca) and get some practice with React!
+
+Site - https://amay-zingg.github.io/anastasia-art
+
+Repo - https://github.com/amay-zingg/anastasia-art
+
 ## Hana Shafi Portfolio
 ✶ HTML, CSS, JQuery, & SASS
 
@@ -34,14 +43,6 @@ Site - https://amay-zingg.github.io/hana-site/
 
 Repo - https://github.com/amay-zingg/hana-site
 
-## Anastasia May Artist Site
-✶ HTML, CSS, JavaScript, SASS, React
-
-This is me trying to make a better version of my current artist website (https://anastasiamay.ca)
-
-Site - https://amay-zingg.github.io/anastasia-art
-
-Repo - https://github.com/amay-zingg/anastasia-art
 
 ## Carrey-ed Away
 ✶ HTML, CSS, JavaScript, & SASS (JQuery in the works)
@@ -79,7 +80,7 @@ Repo - https://github.com/amay-zingg/anastasia-may-project-5
 
 🐅 I LOVE tigers and tiger print
 
-🎃 I LOVE Halloween (It's the spooky and gross creative displays & costumes 😍)
+🎃 I LOVE Halloween (It's the costumes & spooky and gross creative displays 😍)
 
 🍁 I LOVE Autumn, orange is my favourite colour & October is my favourite month of the year!
 
