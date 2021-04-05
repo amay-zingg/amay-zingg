@@ -23,6 +23,10 @@ Site - https://amay-zingg.github.io/GSAP-example-animation/
 
 Repo - https://github.com/amay-zingg/GSAP-example-animation/
 
+Just playing :P
+
+Site - https://amay-zingg.github.io/animation-playground/
+
 Site - https://amay-zingg.github.io/GSAP-first-try/
 
 ## Anastasia May Artist Site
