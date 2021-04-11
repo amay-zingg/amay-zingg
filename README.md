@@ -8,14 +8,22 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
-## Tech Test/ Learning GSAP
-✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
+## GSAP
+✶ HTML, CSS, GSAP/JavaScript/JQuery, (& SASS, maybe)
 
-I needed to learn this for a tech test and this is the result!
+#### This one is an example site that uses subtle animations
+
+Site - https://amay-zingg.github.io/alphastar/
+
+Repo - https://github.com/amay-zingg/alphastar/
+
+
+#### I needed to learn this for a tech test and this is the result!
 
 Site - https://amay-zingg.github.io/GSAP-banner-animation/
 
 Repo - https://github.com/amay-zingg/GSAP-banner-animation/
+
 
 oh and my practice runs lol
 
@@ -23,11 +31,13 @@ Site - https://amay-zingg.github.io/GSAP-example-animation/
 
 Repo - https://github.com/amay-zingg/GSAP-example-animation/
 
+
 Just playing :P
 
 Site - https://amay-zingg.github.io/animation-playground/
 
 Site - https://amay-zingg.github.io/GSAP-first-try/
+
 
 ## Anastasia May Artist Site
 ✶ HTML, CSS, JavaScript, SASS, React
