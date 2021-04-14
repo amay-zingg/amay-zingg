@@ -8,6 +8,12 @@ I really love building projects and putting all the pieces together to make it c
 
 ## The repos I'm currently working on are: 
 
+## JQuery Practice
+
+Site - https://amay-zingg.github.io/jquery-playground/
+
+Repo - https://github.com/amay-zingg/jquery-playground
+
 ## GSAP
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, (& SASS, maybe)
 
