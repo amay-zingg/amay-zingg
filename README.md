@@ -72,6 +72,12 @@ Site - https://amay-zingg.github.io/anastasia-may-project-5/
 
 Repo - https://github.com/amay-zingg/anastasia-may-project-5
 
+#### Things I still need to work on;
+
+✶ Want the little info icon overlay screen to be shown on landing 
+
+✶ Slideshow needs some attention. Photos optimized, add in information from main app for each photo as well (the location, artist and Instagram handle) 
+
 
 ## Hana Shafi Portfolio
 ✶ HTML, CSS, JQuery, & SASS
@@ -101,11 +107,6 @@ Repo - https://github.com/amay-zingg/carrey-ed_away
 ✶ I'm trying to make a JQuery version - so I can understand how to make it work in Vanilla JS and in JQuery
 
 
-#### Things I still need to work on;
-
-✶ Want the little info icon overlay screen to be shown on landing 
-
-✶ Slideshow needs some attention. Photos optimized, add in information from main app for each photo as well (the location, artist and Instagram handle) 
 
 ## Anastasia Fun Facts!
 😁 My favourite palindrome is - No Mel Gibson is a casinos big lemon
