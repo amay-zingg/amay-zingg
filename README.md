@@ -108,6 +108,7 @@ Repo - https://github.com/amay-zingg/carrey-ed_away
 ✶ Slideshow needs some attention. Photos optimized, add in information from main app for each photo as well (the location, artist and Instagram handle) 
 
 ## Anastasia Fun Facts!
+😁 My favourite palindrome is - No Mel Gibson is a casinos big lemon
 
 🐅 I LOVE tigers and tiger print
 
