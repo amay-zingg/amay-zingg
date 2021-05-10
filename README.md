@@ -62,6 +62,17 @@ Site - https://amay-zingg.github.io/anastasia-art
 
 Repo - https://github.com/amay-zingg/anastasia-art
 
+
+## Kensington Art Tour
+✶ HTML, CSS, JavaScript, SASS, React & Firebase
+
+This is the portfolio piece I am most proud of! It's an art tour of Kensington Market in Toronto. 
+
+Site - https://amay-zingg.github.io/anastasia-may-project-5/
+
+Repo - https://github.com/amay-zingg/anastasia-may-project-5
+
+
 ## Hana Shafi Portfolio
 ✶ HTML, CSS, JQuery, & SASS
 
@@ -89,14 +100,6 @@ Repo - https://github.com/amay-zingg/carrey-ed_away
 
 ✶ I'm trying to make a JQuery version - so I can understand how to make it work in Vanilla JS and in JQuery
 
-## Kensington Art Tour
-✶ HTML, CSS, JavaScript, SASS, React & Firebase
-
-This is the portfolio piece I am most proud of! It's an art tour of Kensington Market in Toronto. 
-
-Site - https://amay-zingg.github.io/anastasia-may-project-5/
-
-Repo - https://github.com/amay-zingg/anastasia-may-project-5
 
 #### Things I still need to work on;
 
@@ -110,6 +113,6 @@ Repo - https://github.com/amay-zingg/anastasia-may-project-5
 
 🎃 I LOVE Halloween (It's the costumes & spooky and gross creative displays 😍)
 
-🍁 I LOVE Autumn, orange is my favourite colour & October is my favourite month of the year!
+🍁 I LOVE Autumn, orange + burgundy are my favourite colours & October is my favourite month of the year!
 
 🤢 I don't like the taste of vinegar AT ALL and think balsamic is especially disgusting
