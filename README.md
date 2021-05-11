@@ -11,7 +11,7 @@ I really love building projects and putting all the pieces together to make it c
 
 ## CSS & SVG Animation Practice
 
-Site - ?
+Site - https://amay-zingg.github.io/animated-photos/
 
 Repo - https://github.com/amay-zingg/animated-photos
 
