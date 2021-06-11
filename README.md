@@ -14,19 +14,20 @@ Site - https://amay-zingg.github.io/tiger-queen/
 
 Repo - https://github.com/amay-zingg/tiger-queen
 
-## CSS & SVG Animation Practice
+## GSAP & SVG Animation Practice
 
 Site - https://amay-zingg.github.io/animation-playground/
-//
-
-Site - https://amay-zingg.github.io/animated-photos/
-
-Repo - https://github.com/amay-zingg/animated-photos
-//
 
 Site - https://amay-zingg.github.io/animation/
 
 Repo - https://github.com/amay-zingg/animation
+
+
+### This one is a cool gallery
+
+Site - https://amay-zingg.github.io/animated-photos/
+
+Repo - https://github.com/amay-zingg/animated-photos
 
 
 ## JQuery Practice
@@ -34,6 +35,7 @@ Repo - https://github.com/amay-zingg/animation
 Site - https://amay-zingg.github.io/jquery-playground/
 
 Repo - https://github.com/amay-zingg/jquery-playground
+
 
 ## GSAP
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, (& SASS, maybe)
