@@ -16,18 +16,38 @@ Repo - https://github.com/amay-zingg/tiger-queen
 
 ## GSAP & SVG Animation Practice
 
-Site - https://amay-zingg.github.io/animation-playground/
+Site - https://amay-zingg.github.io/animated-photos/
 
 Site - https://amay-zingg.github.io/animation/
 
-Repo - https://github.com/amay-zingg/animation
+
+## GSAP
+✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
 
-### This one is a cool gallery
+#### I needed to learn this for a tech test and this is the result!
 
-Site - https://amay-zingg.github.io/animated-photos/
+Site - https://amay-zingg.github.io/GSAP-banner-animation/
 
-Repo - https://github.com/amay-zingg/animated-photos
+
+oh and my practice runs lol
+
+Site - https://amay-zingg.github.io/GSAP-example-animation/
+
+
+This one is an example site that uses subtle animations
+
+Site - https://amay-zingg.github.io/alphastar/
+
+Repo - https://github.com/amay-zingg/alphastar/
+
+
+Just playing :P
+
+Site - https://amay-zingg.github.io/animation-playground/
+
+Site - https://amay-zingg.github.io/GSAP-first-try/
+
 
 
 ## JQuery Practice
@@ -36,34 +56,6 @@ Site - https://amay-zingg.github.io/jquery-playground/
 
 Repo - https://github.com/amay-zingg/jquery-playground
 
-
-## GSAP
-✶ HTML, CSS, GSAP/JavaScript/JQuery, (& SASS, maybe)
-
-#### This one is an example site that uses subtle animations
-
-Site - https://amay-zingg.github.io/alphastar/
-
-Repo - https://github.com/amay-zingg/alphastar/
-
-
-#### I needed to learn this for a tech test and this is the result!
-
-Site - https://amay-zingg.github.io/GSAP-banner-animation/
-
-Repo - https://github.com/amay-zingg/GSAP-banner-animation/
-
-
-oh and my practice runs lol
-
-Site - https://amay-zingg.github.io/GSAP-example-animation/
-
-Repo - https://github.com/amay-zingg/GSAP-example-animation/
-
-
-Just playing :P
-
-Site - https://amay-zingg.github.io/GSAP-first-try/
 
 
 ## Anastasia May Artist Site
