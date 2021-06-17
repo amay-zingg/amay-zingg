@@ -12,17 +12,13 @@ I really love building projects and putting all the pieces together to make it c
 
 Site - https://amay-zingg.github.io/tiger-queen/
 
-Repo - https://github.com/amay-zingg/tiger-queen
+## GSAP & SVG's
+✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
-## GSAP & SVG Animation Practice
 
 Site - https://amay-zingg.github.io/animated-photos/
 
 Site - https://amay-zingg.github.io/animation/
-
-
-## GSAP
-✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
 
 #### I needed to learn this for a tech test and this is the result!
@@ -38,8 +34,6 @@ Site - https://amay-zingg.github.io/GSAP-example-animation/
 This one is an example site that uses subtle animations
 
 Site - https://amay-zingg.github.io/alphastar/
-
-Repo - https://github.com/amay-zingg/alphastar/
 
 
 Just playing :P
