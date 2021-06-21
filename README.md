@@ -16,6 +16,8 @@ Site - https://amay-zingg.github.io/tiger-queen/
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
 I screwed it up and I have to fix it? I remember it looked fine when I had it locally?
+
+
 Site - https://amay-zingg.github.io/animated-photos/
 
 Site - https://amay-zingg.github.io/animation/
