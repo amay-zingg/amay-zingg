@@ -13,12 +13,11 @@ I really love building projects and putting all the pieces together to make it c
 Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
 
 
+## GSAP & SVG's
 ### Animated Birthday Gift to Myself
 
 Site - https://amay-zingg.github.io/tiger-queen/
 
-
-## GSAP & SVG's
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
 I screwed it up and I have to fix it? I remember it looked fine when I had it locally?
