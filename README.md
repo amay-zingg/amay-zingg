@@ -10,6 +10,8 @@ I really love building projects and putting all the pieces together to make it c
 
 ## Land Acknowledgement Toronto
 
+Goal is to know who the people were that lived on this land originally and how the Europeans "bought" it
+
 Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
 
 
