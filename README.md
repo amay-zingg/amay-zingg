@@ -16,6 +16,11 @@ Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
 
 
 ## GSAP & SVG's
+
+Site - https://amay-zingg.github.io/animated-photos/
+
+Site - https://amay-zingg.github.io/animation/
+
 ### Animated Birthday Gift to Myself
 
 Site - https://amay-zingg.github.io/tiger-queen/
@@ -23,11 +28,6 @@ Site - https://amay-zingg.github.io/tiger-queen/
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
 I screwed it up and I have to fix it? I remember it looked fine when I had it locally?
-
-
-Site - https://amay-zingg.github.io/animated-photos/
-
-Site - https://amay-zingg.github.io/animation/
 
 
 #### I needed to learn this for a tech test and this is the result!
