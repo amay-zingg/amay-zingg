@@ -6,6 +6,7 @@ I really love building projects and putting all the pieces together to make it c
 
 📫 How to reach me: amayzinggdev@gmail.com
 
+
 ## The repos I'm currently working on are: 
 
 ## Land Acknowledgement Toronto
@@ -20,22 +21,21 @@ Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
 Site - https://amay-zingg.github.io/animated-photos/
 
 
-### Animated Birthday Gift to Myself
+## Animated Birthday Gift to Myself
 
 Site - https://amay-zingg.github.io/tiger-queen/
 
 ✶ HTML, CSS, GSAP/JavaScript/JQuery, & SASS
 
-I screwed it up and I have to fix it? I remember it looked fine when I had it locally?
+
+## Old & Happy w/ This One
+Site - https://amay-zingg.github.io/butternut-squash-quesoish-dip/
 
 
 
-#### I needed to learn this for a tech test and this is the result!
-
+## Practicing
 Site - https://amay-zingg.github.io/GSAP-banner-animation/
 
-
-### Practicing
 Site - https://amay-zingg.github.io/animation/
 
 
