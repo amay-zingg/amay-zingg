@@ -19,7 +19,6 @@ Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
 
 Site - https://amay-zingg.github.io/animated-photos/
 
-Site - https://amay-zingg.github.io/animation/
 
 ### Animated Birthday Gift to Myself
 
@@ -30,9 +29,14 @@ Site - https://amay-zingg.github.io/tiger-queen/
 I screwed it up and I have to fix it? I remember it looked fine when I had it locally?
 
 
+
 #### I needed to learn this for a tech test and this is the result!
 
 Site - https://amay-zingg.github.io/GSAP-banner-animation/
+
+
+### Practicing
+Site - https://amay-zingg.github.io/animation/
 
 
 oh and my practice runs lol
@@ -57,8 +61,6 @@ Site - https://amay-zingg.github.io/GSAP-first-try/
 
 Site - https://amay-zingg.github.io/jquery-playground/
 
-Repo - https://github.com/amay-zingg/jquery-playground
-
 
 
 ## Anastasia May Artist Site
@@ -68,8 +70,6 @@ This is me trying to make a better version of my current artist website (https:/
 
 Site - https://amay-zingg.github.io/anastasia-art
 
-Repo - https://github.com/amay-zingg/anastasia-art
-
 
 ## Kensington Art Tour
 ✶ HTML, CSS, JavaScript, SASS, React & Firebase
@@ -78,7 +78,6 @@ This is the portfolio piece I am most proud of! It's an art tour of Kensington M
 
 Site - https://amay-zingg.github.io/anastasia-may-project-5/
 
-Repo - https://github.com/amay-zingg/anastasia-may-project-5
 
 #### Things I still need to work on;
 
@@ -94,8 +93,6 @@ This is a portfolio website I'm working on for an author/illustrator friend of m
 
 Site - https://amay-zingg.github.io/hana-site/
 
-Repo - https://github.com/amay-zingg/hana-site
-
 
 ## Carrey-ed Away
 ✶ HTML, CSS, JavaScript, & SASS (JQuery in the works)
@@ -104,7 +101,6 @@ The goal of this site was to create something like what was being asked in the S
 
 Site - https://amay-zingg.github.io/carrey-ed_away/
 
-Repo - https://github.com/amay-zingg/carrey-ed_away
 
 #### Things I still need to work on; 
 
