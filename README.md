@@ -1,6 +1,7 @@
 # Heya 👋
 
 ## I need to figure out how to connect my vs code and github again....?
+Where should I look the Github docs didn't help me, just confused me more if I'm being honest
 
 ## My name is Anastasia & I'm invested in learning how to code!
 
