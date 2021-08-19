@@ -1,6 +1,6 @@
 # Heya 👋
 
-### How do I upload with the passkey?
+### lol I really need to figure out how to upload to github again
 
 ## My name is Anastasia & I'm invested in learning how to code!
 
