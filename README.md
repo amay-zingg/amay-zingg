@@ -1,7 +1,5 @@
 # Heya 👋
 
-### lol I really need to figure out how to upload to github again
-
 ## My name is Anastasia & I'm invested in learning how to code!
 
 I really love building projects and putting all the pieces together to make it complete! (We all know the work is never done though 🤪) (But that's okie, no small tweak is ever insignificant) 
@@ -16,6 +14,9 @@ I really love building projects and putting all the pieces together to make it c
 Goal is to know who the people were that lived on this land originally and how the Europeans "bought" it
 
 Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
+
+## Animation Practice
+Site - https://amay-zingg.github.io/animationPractice/
 
 
 ## GSAP & SVG's
