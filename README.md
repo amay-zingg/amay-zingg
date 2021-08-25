@@ -10,6 +10,9 @@ We all know the work is never done though 🤪, but that's okie, no small tweak 
 
 ## The repos I'm currently working on are: 
 
+## Parallax 
+Site - https://amay-zingg.github.io/scrollTrigger/
+
 ## Land Acknowledgement Toronto
 
 Goal is to know who the people were that lived on this land originally and how the Europeans "bought" it
