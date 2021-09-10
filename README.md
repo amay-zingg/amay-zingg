@@ -10,8 +10,6 @@ We all know the work is never done though 🤪, but that's okie, no small tweak 
 
 ## The repos I'm currently working on are: 
 
-Need to fix
-
 ## Parallax 
 Site - https://amay-zingg.github.io/scrollTrigger/
 
