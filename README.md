@@ -17,7 +17,8 @@ Site - https://amay-zingg.github.io/scrollTrigger/
 
 Goal is to know who the people were that lived on this land originally and how the Europeans "bought" it
 
-Site - https://amay-zingg.github.io/LandAcknowledgementToronto/
+Site - https://amay-zingg.github.io/TorontoLandAcknowledgement/
+
 
 ## Animation Practice
 Site - https://amay-zingg.github.io/animationPractice/
