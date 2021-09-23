@@ -9,7 +9,7 @@ We all know the work is never done though 🤪, but that's okie, no small tweak 
 
 
 ## The repos I'm currently working on are: 
-## Web Standards
+## Web Standards - WCAG
 Site - https://amay-zingg.github.io/WebStandards/
 
 ## Parallax 
