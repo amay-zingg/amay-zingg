@@ -12,9 +12,6 @@ We all know the work is never done though 🤪, but that's okie, no small tweak 
 ## Video Background
 Site - https://amay-zingg.github.io/VideoBackground/
 
-## Web Standards - WCAG
-Site - https://amay-zingg.github.io/WebStandards/
-
 ## Parallax 
 Site - https://amay-zingg.github.io/scrollTrigger/
 
@@ -27,6 +24,13 @@ Site - https://amay-zingg.github.io/TorontoLandAcknowledgement/
 
 ## Animation Practice
 Site - https://amay-zingg.github.io/animationPractice/
+
+
+
+
+
+
+
 
 
 ## GSAP & SVG's
