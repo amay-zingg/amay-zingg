@@ -79,56 +79,6 @@ Site - https://amay-zingg.github.io/GSAP-first-try/
 Site - https://amay-zingg.github.io/jquery-playground/
 
 
-
-## Anastasia May Artist Site
-✶ HTML, CSS, JavaScript, SASS, React
-
-This is me trying to make a better version of my current artist website (https://anastasiamay.ca) and get some practice with React!
-
-Site - https://amay-zingg.github.io/anastasia-art
-
-
-## Kensington Art Tour
-✶ HTML, CSS, JavaScript, SASS, React & Firebase
-
-This is the portfolio piece I am most proud of! It's an art tour of Kensington Market in Toronto. 
-
-Site - https://amay-zingg.github.io/anastasia-may-project-5/
-
-
-#### Things I still need to work on;
-
-✶ Want the little info icon overlay screen to be shown on landing 
-
-✶ Slideshow needs some attention. Photos optimized, add in information from main app for each photo as well (the location, artist and Instagram handle) 
-
-
-## Hana Shafi Portfolio
-✶ HTML, CSS, JQuery, & SASS
-
-This is a portfolio website I'm working on for an author/illustrator friend of mine. This repo is just so she can see how it looks live while I make improvements. I'm actually making an exact replica in Shopify at the same time to compare and understand the beast that is Shopify theme building!
-
-Site - https://amay-zingg.github.io/hana-site/
-
-
-## Carrey-ed Away
-✶ HTML, CSS, JavaScript, & SASS (JQuery in the works)
-
-The goal of this site was to create something like what was being asked in the Shopify Internship challenge for Web Development. I wanted to put my own twist on it to show that I'm a creative and fun person! (I ADORE Jim Carrey 😁)
-
-Site - https://amay-zingg.github.io/carrey-ed_away/
-
-
-#### Things I still need to work on; 
-
-✶ I want to make a read more/read less button for the movie overviews
-
-✶ Make the data from the firebase database update in a horizontal bar chart from chart.js as the rankings
-
-✶ I'm trying to make a JQuery version - so I can understand how to make it work in Vanilla JS and in JQuery
-
-
-
 ## Anastasia Fun Facts!
 😁 My favourite palindrome is - No Mel Gibson is a casinos big lemon
 
