@@ -5,8 +5,6 @@
 I really love building projects and putting all the pieces together to make it complete! 
 We all know the work is never done though 🤪, but that's okie, no small tweak is ever insignificant!
 
-📫 How to reach me: amayzinggdev@gmail.com
-
 
 ## The repos I'm currently working on are: 
 ## Video Background
